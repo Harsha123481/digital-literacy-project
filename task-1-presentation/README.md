@@ -1,3 +1,7 @@
+<img width="502" height="763" alt="presentation" src="https://github.com/user-attachments/assets/85183d20-d84a-4010-977d-3d784cc5d700" />
+
+
+
 # Task 1 – Digital Literacy Awareness Infographic
 
 ## Tool Used
