@@ -1,17 +1,29 @@
-# Cybercrime Prevention Checklist
+Stay Safe Online – Prevention Checklist 
 
-## Safety Measures
+--> Use strong and unique passwords for all your accounts. 
 
-- Use strong and unique passwords
-- Enable two-factor authentication (2FA)
-- Do not share OTPs or passwords with anyone
-- Avoid clicking on suspicious links
-- Verify website URLs before entering personal data
-- Keep your software and apps updated
-- Install antivirus and security software
-- Do not download files from unknown sources
-- Be careful while using public Wi-Fi
-- Regularly monitor your online accounts
+--> Enable two-factor authentication (2FA) wherever possible. 
 
-## Conclusion
-Following these simple precautions can help protect against cybercrime and ensure safe internet usage.
+--> Do not share OTPs, passwords, or personal details with anyone. 
+
+--> Always verify links before clicking, especially in emails or messages. 
+
+--> Avoid using public Wi-Fi for logging into important accounts. 
+
+--> Keep your apps and devices updated to protect against security threats. 
+
+--> Be careful about what you share on social media. 
+
+ 
+
+💰 Financial / UPI Safety Tips 
+
+--> Never scan unknown QR codes or accept random payment requests. 
+
+--> Double-check UPI IDs and payment details before sending money. 
+
+🚨 Report Cybercrime 
+
+🌐 National Cyber Crime Portal: https://cybercrime.gov.in 
+
+📞 Helpline Number: 1930 
